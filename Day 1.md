@@ -8,3 +8,4 @@
 ### What I learnt
 1. How computers work
 2. Syntax errors in Python
+3. Program flow
