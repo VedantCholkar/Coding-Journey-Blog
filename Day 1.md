@@ -1,6 +1,10 @@
 # Day 1
-Today I started
-- Scientific Computing with Python on FreeCodeCamp.
+### Started
+- [Scientific Computing with Python on FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python)
 
-## Time Spent
+### Time Spent
 - 30min
+
+### What I learnt
+1. How computers work
+2. Syntax errors in Python
