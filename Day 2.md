@@ -4,11 +4,12 @@
 - [Scientific Computing with Python on FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python)
 
 ### What I learned:
-1. Variables in Python
+1. Variables
 2. Types
 3. Conversion between types
 4. User input
 5. Comments
+6. If-Else Conditionals
 
 ### Programs I made:
 #### Division Calculator
