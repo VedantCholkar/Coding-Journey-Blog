@@ -1,5 +1,5 @@
 # Day 2
-> 22 September 2022, 16min
+> 22 September 2022, 30min
 ### Working on:
 - [Scientific Computing with Python on FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python)
 
