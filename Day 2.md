@@ -9,7 +9,8 @@
 3. Conversion between types
 4. User input
 5. Comments
-6. If-Else Conditionals
+6. If-Elif-Else Conditionals
+7. Try-Except Conditionals
 
 ### Programs I made:
 #### Division Calculator
