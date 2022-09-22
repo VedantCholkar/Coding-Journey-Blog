@@ -4,7 +4,11 @@
 - [Scientific Computing with Python on FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python)
 
 ### Time spent
-- 6min
+- 16min
 
 ### What I learned
 1. Variables in Python
+2. Types
+3. Conversion between types
+4. User input
+5. Comments
