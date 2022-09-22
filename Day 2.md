@@ -7,4 +7,4 @@
 - 6min
 
 ### What I learned
-- Variables in Python
+1. Variables in Python
