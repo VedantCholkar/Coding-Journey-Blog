@@ -11,6 +11,7 @@
 5. Comments
 6. If-Elif-Else Conditionals
 7. Try-Except Conditionals
+8. F-Strings
 
 ### Programs I made:
 #### Division Calculator
@@ -20,4 +21,23 @@ num1 = input("Number 1: ")
 num2 = input("Number 2: ")
 ans = int(num1) / int(num2)
 print(ans)
+```
+
+#### Calculator
+```python
+print("Calculator")
+operator = input("Operation (+ or - or * or /): ")
+num1 = int(input("Number: "))
+num2 = int(input("Number: "))
+if operator == "+":
+    ans = num1 + num2
+elif operator == "-":
+    ans = num1 - num2
+elif operator == "*":
+    ans = num1 * num2
+elif operator == "/":
+    ans = num1 / num2
+else:
+    print("Invalid operation")
+print(f"{num1} {operator} {num2} = {ans}")
 ```
