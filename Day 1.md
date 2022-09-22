@@ -1,4 +1,5 @@
 # Day 1
+> 21 September 2022
 ### Started
 - [Scientific Computing with Python on FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python)
 
